@@ -1,4 +1,4 @@
-package views;
+package flightTravelAgentApp.views;
 
 public interface TravelAgentView {
 }
